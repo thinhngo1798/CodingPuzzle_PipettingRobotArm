@@ -1,0 +1,13 @@
+D:\Visual Studio\Projects\PipettingRobotArm\obj\Debug\netcoreapp3.1\PipettingRobotArm.csprojAssemblyReference.cache
+D:\Visual Studio\Projects\PipettingRobotArm\obj\Debug\netcoreapp3.1\PipettingRobotArm.AssemblyInfoInputs.cache
+D:\Visual Studio\Projects\PipettingRobotArm\obj\Debug\netcoreapp3.1\PipettingRobotArm.AssemblyInfo.cs
+D:\Visual Studio\Projects\PipettingRobotArm\obj\Debug\netcoreapp3.1\PipettingRobotArm.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Projects\PipettingRobotArm\bin\Debug\netcoreapp3.1\PipettingRobotArm.exe
+D:\Visual Studio\Projects\PipettingRobotArm\bin\Debug\netcoreapp3.1\PipettingRobotArm.deps.json
+D:\Visual Studio\Projects\PipettingRobotArm\bin\Debug\netcoreapp3.1\PipettingRobotArm.runtimeconfig.json
+D:\Visual Studio\Projects\PipettingRobotArm\bin\Debug\netcoreapp3.1\PipettingRobotArm.runtimeconfig.dev.json
+D:\Visual Studio\Projects\PipettingRobotArm\bin\Debug\netcoreapp3.1\PipettingRobotArm.dll
+D:\Visual Studio\Projects\PipettingRobotArm\bin\Debug\netcoreapp3.1\PipettingRobotArm.pdb
+D:\Visual Studio\Projects\PipettingRobotArm\obj\Debug\netcoreapp3.1\PipettingRobotArm.dll
+D:\Visual Studio\Projects\PipettingRobotArm\obj\Debug\netcoreapp3.1\PipettingRobotArm.pdb
+D:\Visual Studio\Projects\PipettingRobotArm\obj\Debug\netcoreapp3.1\PipettingRobotArm.genruntimeconfig.cache
